@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains the mandatory SQL/PLSQL exercises completed as part of the Cognizant Digital Nurture 4.0 Java FSE Deep Skilling Program.
+This repository contains the mandatory SQL/PLSQL exercises completed as part of the **Cognizant Digital Nurture 5.0 Java Full Stack Engineer (Java FSE) Deep Skilling Program**.
 
-The exercises are implemented using **MySQL 8.0** while following the concepts specified in the PL/SQL assignment.
+The exercises are implemented using **MySQL 8.0** while following the concepts specified in the assignment.
 
 ---
 
@@ -90,4 +90,4 @@ Computer Science and Engineering
 
 R.M.D. Engineering College
 
-Cognizant Digital Nurture 4.0 - Java Full Stack Engineer
+**Cognizant Digital Nurture 5.0 - Java Full Stack Engineer**
